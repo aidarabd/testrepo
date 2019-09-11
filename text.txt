@@ -1,9 +1,2 @@
-aidar tort
-<<<<<<< HEAD
-huyta
-=======
-nurdin loh
->>>>>>> 73238d46b32e4b1c86d29b34402b3c3e39f064c9
-
-
-my huyta
+clean code
+print("hello")
