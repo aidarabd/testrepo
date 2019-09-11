@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 aidar tort
 <<<<<<< HEAD
 huyta
@@ -10,3 +11,13 @@ my huyta
 
 
 special huyta for aidar
+=======
+clean code
+print("hello")
+>>>>>>> 238a176759658c183e2bc0a120ad356b69aeb445
+
+
+
+
+
+another special huyta for aidar
