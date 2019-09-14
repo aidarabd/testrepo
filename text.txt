@@ -1,5 +1,3 @@
 print hello
-my changes
-
-system out println
-bir nerse kowtum
+MEN DAGY BIRNERSE KOWTUM
+test text
